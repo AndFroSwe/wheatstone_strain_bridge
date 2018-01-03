@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\andfro\Documents\wheatstone_strain_bridge\wheatstone_strain_bridge\wheatstone_strain_bridge.sch</source>
+    <date>02/01/2018 20:42:24</date>
+    <tool>Eeschema 4.0.7</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>wheatstone_strain_bridge.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="R2">
+      <value>120</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BBC05</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>120</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BD091</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>120</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BD0B3</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x04</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="Conn_01x04"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BD0E8</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="Conn_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BD8BA</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BDCF9</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Rotary2x6</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x07_Pitch2.54mm</footprint>
+      <libsource lib="switches" part="SW_Rotary2x6"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BE206</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Rotary2x6</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_2x07_Pitch2.54mm</footprint>
+      <libsource lib="switches" part="SW_Rotary2x6"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BE8F6</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BF10A</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BF15A</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BF162</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>R</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BF1B3</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>120</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BF62E</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>120</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BF634</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>120</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BF63A</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="Conn_01x04"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BF657</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="Conn_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BF669</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>120</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BFFE1</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>120</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BFFE7</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>120</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4BFFED</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x04</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="Conn_01x04"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4C000A</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="Conn_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4C001C</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>120</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4C0024</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>120</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4C002A</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>120</value>
+      <footprint>Resistors_SMD:R_1210_HandSoldering</footprint>
+      <libsource lib="device" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4C0030</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>Conn_01x04</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x04_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="Conn_01x04"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4C004D</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>Conn_01x02</value>
+      <footprint>Pin_Headers:Pin_Header_Straight_1x02_Pitch2.54mm</footprint>
+      <libsource lib="conn" part="Conn_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A4C005F</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="conn" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="conn" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_??x*mm*</fp>
+        <fp>Connector*:*1x??x*mm*</fp>
+        <fp>Pin?Header?Straight?1X*</fp>
+        <fp>Pin?Header?Angled?1X*</fp>
+        <fp>Socket?Strip?Straight?1X*</fp>
+        <fp>Socket?Strip?Angled?1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="device" part="R">
+      <description>Resistor</description>
+      <footprints>
+        <fp>R_*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="switches" part="SW_Rotary2x6">
+      <description>2 rotary switch with 6 positions</description>
+      <docs>http://cdn-reichelt.de/documents/datenblatt/C200/DS-Serie%23LOR.pdf</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Rotary2x6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="device">
+      <uri>C:\Program Files\KiCad\share\kicad\library\device.lib</uri>
+    </library>
+    <library logical="switches">
+      <uri>C:\Program Files\KiCad\share\kicad\library\switches.lib</uri>
+    </library>
+    <library logical="conn">
+      <uri>C:\Program Files\KiCad\share\kicad\library\conn.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/DC_3-VCC">
+      <node ref="J5" pin="3"/>
+      <node ref="R5" pin="2"/>
+      <node ref="J6" pin="1"/>
+      <node ref="SW2" pin="4"/>
+    </net>
+    <net code="2" name="/DC_3-GND">
+      <node ref="R6" pin="1"/>
+      <node ref="J5" pin="4"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="3" name="/DC_2-VCC">
+      <node ref="SW2" pin="3"/>
+      <node ref="J3" pin="3"/>
+      <node ref="R3" pin="2"/>
+      <node ref="J4" pin="1"/>
+    </net>
+    <net code="4" name="/GAUGE_2-2">
+      <node ref="J4" pin="2"/>
+      <node ref="R10" pin="2"/>
+      <node ref="SW2" pin="9"/>
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="5" name="/MEAS_2-2">
+      <node ref="R3" pin="1"/>
+      <node ref="J3" pin="2"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="6" name="/GAUGE_4-2">
+      <node ref="SW2" pin="11"/>
+      <node ref="R12" pin="2"/>
+      <node ref="J8" pin="2"/>
+      <node ref="J7" pin="1"/>
+    </net>
+    <net code="7" name="/MEAS_4-2">
+      <node ref="R7" pin="1"/>
+      <node ref="J7" pin="2"/>
+      <node ref="R8" pin="2"/>
+    </net>
+    <net code="8" name="/DC_4-GND">
+      <node ref="J7" pin="4"/>
+      <node ref="R12" pin="1"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="9" name="/GAUGE_3-2">
+      <node ref="SW2" pin="10"/>
+      <node ref="J6" pin="2"/>
+      <node ref="J5" pin="1"/>
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="10" name="/MEAS_3-2">
+      <node ref="J5" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="11" name="/DC_4-VCC">
+      <node ref="J7" pin="3"/>
+      <node ref="SW2" pin="5"/>
+      <node ref="R7" pin="2"/>
+      <node ref="J8" pin="1"/>
+    </net>
+    <net code="12" name="/MEAS_1-2">
+      <node ref="J1" pin="2"/>
+      <node ref="R2" pin="2"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="13" name="/DC_1-GND">
+      <node ref="R9" pin="1"/>
+      <node ref="J1" pin="4"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="14" name="/DC_1-VCC">
+      <node ref="J2" pin="1"/>
+      <node ref="J1" pin="3"/>
+      <node ref="R1" pin="2"/>
+      <node ref="SW2" pin="2"/>
+    </net>
+    <net code="15" name="/GAUGE_1-2">
+      <node ref="R9" pin="2"/>
+      <node ref="J2" pin="2"/>
+      <node ref="J1" pin="1"/>
+      <node ref="SW2" pin="8"/>
+    </net>
+    <net code="16" name="/R_CALIB_5-1">
+      <node ref="SW1" pin="5"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="17" name="Net-(SW2-Pad1)">
+      <node ref="SW2" pin="1"/>
+    </net>
+    <net code="18" name="Net-(SW2-Pad6)">
+      <node ref="SW2" pin="6"/>
+    </net>
+    <net code="19" name="Net-(SW2-Pad7)">
+      <node ref="SW2" pin="7"/>
+    </net>
+    <net code="20" name="Net-(SW2-Pad12)">
+      <node ref="SW2" pin="12"/>
+    </net>
+    <net code="21" name="/R_CALIB_4-1">
+      <node ref="R16" pin="1"/>
+      <node ref="SW1" pin="4"/>
+    </net>
+    <net code="22" name="/R_CALIB_3-1">
+      <node ref="SW1" pin="3"/>
+      <node ref="R15" pin="1"/>
+    </net>
+    <net code="23" name="/R_CALIB_3-2">
+      <node ref="R15" pin="2"/>
+      <node ref="SW1" pin="9"/>
+    </net>
+    <net code="24" name="/R_CALIB_2-1">
+      <node ref="SW1" pin="2"/>
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="25" name="/R_CALIB_2-2">
+      <node ref="SW1" pin="8"/>
+      <node ref="R14" pin="2"/>
+    </net>
+    <net code="26" name="/R_CALIB_1-1">
+      <node ref="SW1" pin="1"/>
+      <node ref="R13" pin="1"/>
+    </net>
+    <net code="27" name="/R_CALIB_1-2">
+      <node ref="R13" pin="2"/>
+      <node ref="SW1" pin="7"/>
+    </net>
+    <net code="28" name="/DC_2-GND">
+      <node ref="J3" pin="4"/>
+      <node ref="R10" pin="1"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="29" name="Net-(SW1-Pad6)">
+      <node ref="SW1" pin="6"/>
+    </net>
+    <net code="30" name="/R_CALIB_4-2">
+      <node ref="R16" pin="2"/>
+      <node ref="SW1" pin="10"/>
+    </net>
+    <net code="31" name="/R_CALIB_5-2">
+      <node ref="R17" pin="2"/>
+      <node ref="SW1" pin="11"/>
+    </net>
+    <net code="32" name="Net-(SW1-Pad12)">
+      <node ref="SW1" pin="12"/>
+    </net>
+    <net code="33" name="/R_CALIB_INPUT-1">
+      <node ref="SW1" pin="13"/>
+      <node ref="SW2" pin="13"/>
+    </net>
+    <net code="34" name="/R_CALIB_INPUT-2">
+      <node ref="SW1" pin="14"/>
+      <node ref="SW2" pin="14"/>
+    </net>
+  </nets>
+</export>

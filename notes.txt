@@ -1,0 +1,4 @@
+# Things to buy for project (that are not visible in BOM)
+
+- 4 wire + shield cable
+- Male receptacles for circular connector
